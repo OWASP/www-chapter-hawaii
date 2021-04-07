@@ -8,7 +8,7 @@ meetup-group: OWASP-Hawaii
 postal-code: 96816
 ---
 
-## Welcome
+## Aloha
 Aloha and welcome to the official OWASP Hawai'i Chapter!
 
 We are a small chapter of dedicated application developers and security professionals coming together to share knowledge, and through community, build a more resilient technical Hawai'i ecosystem and technical workforce.
