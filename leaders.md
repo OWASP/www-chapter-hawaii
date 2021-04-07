@@ -1,4 +1,4 @@
 <!--### Leaders
 -->
-* Jason Sewell
-* Alyssa Knight
+* [Jason Sewell](mailto:jason.sewell@owasp.org)
+* [Alyssa Knight](mailto:alyssa.knight@owasp.org)
