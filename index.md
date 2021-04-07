@@ -3,12 +3,9 @@
 layout: col-sidebar
 title: OWASP Hawaii
 tags: example-tag
-level: 0
-
 region: United States
-
-auto-migrated: 1
-
+meetup-group: OWASP-Hawaii
+postal-code: 96816
 ---
 
 
