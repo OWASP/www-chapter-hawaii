@@ -34,6 +34,6 @@ Speaking at OWASP Hawai'i Chapter Events
 
 #### Call For Speakers
 
-Call For Speakers is open - if you would like to present a talk on Application Security at future OWASP London Chapter events - please review and agree with the [OWASP Speaker Agreement](https://owasp.org/www-policy/legal/speaker-agreement) and send the proposed talk title, abstract and speaker bio to the Chapter Leaders via e-mail:
+Call For Speakers is open - if you would like to present a talk on Application Security at future OWASP Hawai'i Chapter events - please review and agree with the [OWASP Speaker Agreement](https://owasp.org/www-policy/legal/speaker-agreement) and send the proposed talk title, abstract and speaker bio to the Chapter Leaders via e-mail:
 
-`owasphawaii (at) owasp.org`
+`jason.sewell (at) owasp.org`
