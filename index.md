@@ -2,7 +2,6 @@
 
 layout: col-sidebar
 title: OWASP Hawaii
-tags: example-tag
 region: North America
 meetup-group: OWASP-Hawaii
 postal-code: 96816
