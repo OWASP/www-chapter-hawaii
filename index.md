@@ -19,6 +19,23 @@ The easiest way is to join our [OWASP Hawai'i Meetup Group](https://www.meetup.c
 
 Hope to see you soon 🤙
 
+## Upcoming Events
+
+#### OWASP Hawai'i 2021 Reboot
+**When:** Mon, Apr 19 · 6:30 PM HST
+
+**Where:** Virtual (Google Meeting Link on Meetup event)
+
+**Agenda:** 
+
+Please join us for a forward looking meeting into 2021 where we will discuss the following:
+
+* Desired community events
+* Google summer of code mentor program
+* Regular meetup schedule
+* General talk story
+
+
 ## Local News
 - Everyone is welcome to join us at our chapter meetings.
 
