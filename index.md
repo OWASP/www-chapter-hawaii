@@ -5,6 +5,7 @@ title: OWASP Hawaii
 region: North America
 meetup-group: OWASP-Hawaii
 postal-code: 96816
+country: USA
 ---
 
 ## Aloha
